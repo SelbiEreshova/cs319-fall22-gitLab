@@ -38,3 +38,4 @@ class MaterialManager:
            returnValue = False
        finally:
            return returnValue
+
